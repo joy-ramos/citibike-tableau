@@ -16,28 +16,42 @@ Learn more at https://www.citibikenyc.com/
 ### With our data, I have answered the following questions, with possible relation to the effect of COVID-19
 
  - How many trips have been recorded total during the chosen period?
-    - A: Within January - April 2020, there has been a total recorded trips of 75,969.
-         It has a total of 70,608,643 seconds of ride time with an average of 929 seconds or 15 minutes per trip!
+    - A: Within January - April 2020, there has been a total recorded trips of 4,138,645.
+         It has a total of 4,223,393,007 seconds of ride time with an average of 1020 seconds or 17 minutes per trip!
          
  - Has there been a significant growth/decrease in total ridership during the chosen period?
-    - A: As expected, use of Citi Bike has been greatly affected by the lockdown caused by COVID-19. As more and more people decide to stay home, the total ridership has decreased dramatically, at least by almost 12% by each month. March showed a huge drop by 48% from April.
+    - A: As expected, use of Citi Bike has been greatly affected by the lockdown caused by COVID-19. As more and more people decide to stay home, the total ridership has decreased dramatically, at least by almost 7% for the first couple of months and then March showing a huge drop by 36% from April.
 
  - What are the peak hours in which bikes are used during these months?
-     - A: While essential businesses stay open, the peak hours for starting/ending a trip remained the same. People usually go to work around 7-9 am and leave around 5-6 pm. 
+     - A: While essential businesses stay open, the peak hours for starting/ending a trip at most stations remained the same. People usually go to work around 7-9 am and leave around 5-6 pm. 
      
  - Which bikes (by ID) are most likely due for repair or inspection in the timespan?
-     - A:
+     - A: We identified the top 15 bikes that have been ridden the longest:
+          bikeid's: 41776, 33632, 16272, 41649, 32618, 40258, 28124, 33816, 32497, 28630, 41678, 30627, 40601, 32996, 36016
+
  - Today, what are the bottom 10 stations in the city for starting a journey?
      - A:
+          Fairview Ave & Linden St
+          Willoughby Ave & Onderdonk Ave
+          Hancock St & Wyckoff Ave
+          Stanhope St & Fairview Ave
+          Menahan St & Onderdonk Ave
+          Stephen St & Seneca Ave
+          31 Ave & Steinway St (temp)
+          Somers St & Broadway
+          West St & Liberty St
+          MTL-AOS-5.1
+
 
  - What is the proportion of short-term customers and annual subscribers?
-     - A:
+     - A: 88% of our riders are annual subscribers and only 12% are short-term customers
+     
  - Today, what is the gender breakdown of active participants (Male v. Female)?
-      - A:
+      - A: Roughly about 70% of our riders are men, 24% women and the remaining are unidentified
       
       
   
-#### More analysis can be viewed on the tableau file in this repository.
+#### More analysis can be made with our graphs in the tableau file within this repository.
       
  
 
