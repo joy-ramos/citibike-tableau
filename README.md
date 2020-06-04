@@ -23,7 +23,7 @@ Learn more at https://www.citibikenyc.com/
     - A: As expected, use of Citi Bike has been greatly affected by the lockdown caused by COVID-19. As more and more people decide to stay home, the total ridership has decreased dramatically, at least by almost 12% by each month. March showed a huge drop by 48% from April.
 
  - What are the peak hours in which bikes are used during these months?
-     - A: While some essential businesses remained open, 
+     - A: While essential businesses stay open, the peak hours for starting/ending a trip remained the same. People usually go to work around 7-9 am and leave around 5-6 pm. 
      
  - Which bikes (by ID) are most likely due for repair or inspection in the timespan?
      - A:
