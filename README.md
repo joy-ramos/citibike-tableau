@@ -31,23 +31,22 @@ Learn more at https://www.citibikenyc.com/
 
  - Today, what are the bottom 10 stations in the city for starting a journey?
      - A:
-          Fairview Ave & Linden St
-          Willoughby Ave & Onderdonk Ave
-          Hancock St & Wyckoff Ave
-          Stanhope St & Fairview Ave
-          Menahan St & Onderdonk Ave
-          Stephen St & Seneca Ave
-          31 Ave & Steinway St (temp)
-          Somers St & Broadway
-          West St & Liberty St
-          MTL-AOS-5.1
-
+        Fairview Ave & Linden St  
+        Willoughby Ave & Onderdonk Ave  
+        Hancock St & Wyckoff Ave  
+        Stanhope St & Fairview Ave  
+        Menahan St & Onderdonk Ave  
+        Stephen St & Seneca Ave  
+        31 Ave & Steinway St (temp)  
+        Somers St & Broadway  
+        West St & Liberty St  
+        MTL-AOS-5.1
 
  - What is the proportion of short-term customers and annual subscribers?
-     - A: 88% of our riders are annual subscribers and only 12% are short-term customers
-     
+    - A: 88% of our riders are annual subscribers and only 12% are short-term customers  
+    
  - Today, what is the gender breakdown of active participants (Male v. Female)?
-      - A: Roughly about 70% of our riders are men, 24% women and the remaining are unidentified
+    - A: Roughly about 70% of our riders are men, 24% women and the remaining are unidentified
       
       
   
