@@ -49,7 +49,9 @@ Learn more at https://www.citibikenyc.com/
     - A: Roughly about 70% of our riders are men, 24% women and the remaining are unidentified
       
       
-#### More analysis can be made with our graphs in the tableau file within this repository.
+#### More analysis can be made with our graphs in the tableau file embedded below:
+
+<iframe src="https://public.tableau.com/views/citibike-hw/Story-NYCiitbikes1stQtr2020?:display_count=y&publish=yes&:origin=viz_share_link?:showVizHome=no&:embed=true" width="645" height="955"></iframe>
       
  
 
